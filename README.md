@@ -19,13 +19,14 @@ This project replicates the basic structure and design of Amazon with features l
 - **CSS3**  
 - **JavaScript (Vanilla)**  
 
-(Update this section if you used React, Tailwind, Node.js, etc.)
+
 
 ---
 
 ## 📸 Screenshots
   
-Example:  
+Example: 
+
 ![Homepage Screenshot](./screenshots/homepage.png)  
 ![Cart Screenshot](./screenshots/cart.png)  
 
