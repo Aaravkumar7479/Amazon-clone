@@ -8,7 +8,7 @@ This project replicates the basic structure and design of Amazon with features l
 ## 🚀 Features
 - ✅ Responsive homepage similar to Amazon  
 - ✅ Product categories and listings  
-- ✅ Shopping cart (UI only / functional if implemented)  
+- ✅ Shopping cart (UI only )  
 - ✅ Login & Signup page design  
 - ✅ Modern and clean UI  
 
@@ -35,4 +35,4 @@ Example:
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/Aaravkumar7479/amazon-clone.git
