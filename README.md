@@ -35,4 +35,4 @@ Example:
 ## 📂 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Aaravkumar7479/amazon-clone.git
+   git clone https://github.com/Aaravkumar7479/Amazon-clone.git
